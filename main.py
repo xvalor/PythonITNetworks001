@@ -1,1 +1,5 @@
-print("Hello world")
+print("Ahoj, jak se jmenuješ?\n")
+jmeno = input()
+print("Jaký jsi?\n")
+vlastnost = input()
+print(jmeno + " je " + vlastnost)
