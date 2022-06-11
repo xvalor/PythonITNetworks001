@@ -1,5 +1,4 @@
-print("Ahoj, jak se jmenuješ?\n")
-jmeno = input()
-print("Jaký jsi?\n")
-vlastnost = input()
-print(jmeno + " je " + vlastnost)
+print("Zadej číslo k umocnění:")
+cislo = int(input())
+cislo = cislo * cislo
+print("Výsledek je:", cislo)
